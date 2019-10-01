@@ -2,6 +2,6 @@
 
 ### Week 1
 
-[R Markdown Homework] (file:///Users/ozgunkurt/Desktop/BDA-503.html)
+[R Markdown Homework](file:///Users/ozgunkurt/Desktop/BDA-503.html)
 
 
