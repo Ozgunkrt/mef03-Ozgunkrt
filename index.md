@@ -2,6 +2,6 @@
 
 ### Week 1
 
-[R Markdown Homework](https://github.com/pjournal/mef03-Ozgunkrt/BDA-503.html)
+[R Markdown Homework](https://github.com/pjournal/mef03-Ozgunkrt/OK---R-Markdown-Homework.html)
 
 
