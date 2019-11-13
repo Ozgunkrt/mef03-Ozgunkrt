@@ -4,6 +4,8 @@
 
 [R Markdown Homework](https://pjournal.github.io/mef03-Ozgunkrt/R_Markdown_Homework.html)
 
-[BKM Assigment](https://github.com/pjournal/mef03-Ozgunkrt/blob/master/BDA_503_BKM.Rmd)
+###Individual Assigment
+
+[BKM Assigment](file:///Users/ozgunkurt/Desktop/BDA_503_BKMS.html)
 
 
