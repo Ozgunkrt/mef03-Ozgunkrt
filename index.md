@@ -6,6 +6,6 @@
 
 ### Individual Assigment
 
-[BKM Assigment](https://github.com/pjournal/mef03-Ozgunkrt/blob/master/BDA_503_BKMS.html)
+[BKM Assigment](https://github.com/pjournal/mef03-Ozgunkrt/BDA_503_BKMS.html)
 
 
