@@ -6,8 +6,8 @@
 
 ### Individual Assigments
 
-[BKM Assigment](BDA_503_BKMS.html)
+[BKM Assigment](https://pjournal.github.io/mef03-Ozgunkrt/BDA_503_BKMS.html)
 
-[Tennis Assignment](BDA_503_Tennis_Assigment.html)
+[Tennis Assignment](https://pjournal.github.io/mef03-Ozgunkrt/BDA_503_Tennis_Assigment.html)
 
 
