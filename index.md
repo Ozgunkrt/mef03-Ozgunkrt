@@ -11,4 +11,4 @@
 [Tennis Assigment](https://pjournal.github.io/mef03-Ozgunkrt/BDA_503_Tennis_Assigment.html)
 
 ### Individual Assigments
-[BDA_503_FINAL_BINDING_DATA_SETS](https://pjournal.github.io/mef03-Ozgunkrt/BDA_503_FINAL.html
+[BDA_503_FINAL_BINDING_DATA_SETS](https://pjournal.github.io/mef03-Ozgunkrt/BDA_503_FINAL.html)
